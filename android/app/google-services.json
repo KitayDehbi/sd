@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371733826758",
+    "project_id": "strong-delivery",
+    "storage_bucket": "strong-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371733826758:android:aa2320e60edb44acd1dbc7",
+        "android_client_info": {
+          "package_name": "com.feenTech.strong_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371733826758-so454hcgmb5e07k7g0888naic09v2lbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfVA0Vbt7y463j2yBgqiehJN3nIKOaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371733826758-so454hcgmb5e07k7g0888naic09v2lbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
